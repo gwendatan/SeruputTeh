@@ -5,7 +5,7 @@ Seruput Teh is a premium tea store which seeks to enhance its operations through
 Software: Eclipse, Java, JavaFX, MySQL, XAMPP
 
 Group:
-- Gwenda Tannia
+- Gwenda Tannia Suryasamudra
 - Felisiscametta Kurniadi
 - Fifinellametta Kurniadi
 - Adrian Hananto
